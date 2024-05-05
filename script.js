@@ -37,3 +37,20 @@ try {
 } catch (err) {
   console.log(err);
 }
+
+// Part 2
+// Number 1 - write a recursive function that completely flattens an array of nested arrays, regardless of how deeply nested the arrays are
+
+
+function flattenArray(array){
+let output = []
+
+    for (let i = 0; i < array.length; i++){
+        if()
+    }
+
+}
+
+// Number 2 - once your recursive function is complete, trampoline it
+
+// 
