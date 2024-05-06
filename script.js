@@ -52,3 +52,8 @@ try {
 // Number 2 - once your recursive function is complete, trampoline it
 
 // Part 3
+// Number 1 - create a simple HTML element to hold text (paragrph)
+// Cache this HTML element into a JavaScript variable
+const paragraphEL = document.getElementById("lorem");
+
+// Number 2 - write a function that takes a parameter n and adds a list of all prime numbers between one and n to your HTML element
